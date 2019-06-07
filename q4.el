@@ -1,3 +1,5 @@
+;;; q4.el --- 4chan client -*- lexical-binding: t; -*-
+
 ;; [Q4 Mode by @desvox (Blake DeMarcy)]
 ;; [   https://github.com/desvox/q4   ]
 
@@ -1913,4 +1915,4 @@ thread number."
 
 (provide 'q4)
 
-;; HI IM DAISY
+;;; q4.el ends here
